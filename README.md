@@ -51,8 +51,8 @@ I regularly update this repository with newly solved problems from LeetCode.
 
 ## Profiles
 
-* LeetCode: Add your profile link here
-* GitHub: Add your GitHub profile link here
+* LeetCode: https://leetcode.com/u/harshvardhangandharv
+* GitHub: https://github.com/harshvardhan2706
 
 ## Purpose
 
