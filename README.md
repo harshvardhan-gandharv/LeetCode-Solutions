@@ -9,10 +9,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Language | Problems |
 |----------|---------:|
 | Java | 4 |
+| JavaScript | 1 |
 | Python | 1 |
 | SQL | 3 |
 
-**Total Solved : 8**
+**Total Solved : 9**
 
 ---
 
@@ -22,6 +23,10 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0002 - Add Two Numbers
 - 0004 - Median Of Two Sorted Arrays
 - 0011 - Container With Most Water
+
+## 📜 JavaScript
+
+- 2667 - Create Hello World Function
 
 ## 🐍 Python
 
@@ -37,12 +42,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 30 Jun 2026 18:07
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0595-big-countries](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0595-big-countries) |
-<!---LeetCode Topics End-->
+Last Updated : 30 Jun 2026 18:11
