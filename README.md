@@ -31,3 +31,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 30 Jun 2026 14:47
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
