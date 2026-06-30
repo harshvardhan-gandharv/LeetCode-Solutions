@@ -38,3 +38,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 30 Jun 2026 18:07
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
