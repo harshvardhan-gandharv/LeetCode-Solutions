@@ -4,7 +4,7 @@ This repository contains my solutions to various LeetCode problems solved during
 
 ## About
 
-* Language: Java
+* Language: Java,SQL
 * Platform: LeetCode
 * Goal: Improve problem-solving skills, strengthen DSA concepts, and prepare for coding interviews.
 * Repository Type: Personal Learning & Interview Preparation
