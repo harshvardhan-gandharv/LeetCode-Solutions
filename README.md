@@ -9,11 +9,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Language | Problems |
 |----------|---------:|
 | Java | 4 |
-| JavaScript | 1 |
+| JavaScript | 2 |
 | Python | 1 |
 | SQL | 4 |
 
-**Total Solved : 10**
+**Total Solved : 11**
 
 ---
 
@@ -26,6 +26,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 ## 📜 JavaScript
 
+- 2620 - Counter
 - 2667 - Create Hello World Function
 
 ## 🐍 Python
@@ -43,4 +44,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 30 Jun 2026 18:18
+Last Updated : 30 Jun 2026 18:23
