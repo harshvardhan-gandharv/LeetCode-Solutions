@@ -9,9 +9,10 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Language | Problems |
 |----------|---------:|
 | Java | 4 |
-| SQL | 2 |
+| Python | 1 |
+| SQL | 3 |
 
-**Total Solved : 6**
+**Total Solved : 8**
 
 ---
 
@@ -22,21 +23,18 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0004 - Median Of Two Sorted Arrays
 - 0011 - Container With Most Water
 
+## 🐍 Python
+
+- scripts
+
 ## 🗄 SQL
 
 - 0584 - Find Customer Referee
+- 0595 - Big Countries
 - 1757 - Recyclable And Low Fat Products
 
 ---
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 30 Jun 2026 17:37
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0595-big-countries](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0595-big-countries) |
-<!---LeetCode Topics End-->
+Last Updated : 30 Jun 2026 18:07
