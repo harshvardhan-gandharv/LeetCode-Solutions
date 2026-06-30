@@ -43,3 +43,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 30 Jun 2026 18:14
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/1148-article-views-i) |
+<!---LeetCode Topics End-->
