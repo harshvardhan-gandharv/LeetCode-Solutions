@@ -11,9 +11,9 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Java | 4 |
 | JavaScript | 1 |
 | Python | 1 |
-| SQL | 3 |
+| SQL | 4 |
 
-**Total Solved : 9**
+**Total Solved : 10**
 
 ---
 
@@ -36,18 +36,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
+- 1148 - Article Views I
 - 1757 - Recyclable And Low Fat Products
 
 ---
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 30 Jun 2026 18:14
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1148-article-views-i](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/1148-article-views-i) |
-<!---LeetCode Topics End-->
+Last Updated : 30 Jun 2026 18:18
