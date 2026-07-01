@@ -45,3 +45,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 30 Jun 2026 18:23
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
