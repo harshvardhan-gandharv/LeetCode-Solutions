@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 4 |
+| Java | 5 |
 | JavaScript | 2 |
 | Python | 1 |
 | SQL | 4 |
 
-**Total Solved : 11**
+**Total Solved : 12**
 
 ---
 
@@ -23,6 +23,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0002 - Add Two Numbers
 - 0004 - Median Of Two Sorted Arrays
 - 0011 - Container With Most Water
+- 0014 - Longest Common Prefix
 
 ## 📜 JavaScript
 
@@ -44,20 +45,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 30 Jun 2026 18:23
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
-## String
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
-<!---LeetCode Topics End-->
+Last Updated : 01 Jul 2026 17:15
