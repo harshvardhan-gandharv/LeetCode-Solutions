@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 6 |
+| Java | 7 |
 | JavaScript | 2 |
 | Python | 1 |
 | SQL | 4 |
 
-**Total Solved : 13**
+**Total Solved : 14**
 
 ---
 
@@ -22,6 +22,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0001 - Two Sum
 - 0002 - Add Two Numbers
 - 0004 - Median Of Two Sorted Arrays
+- 0005 - Longest Palindromic Substring
 - 0011 - Container With Most Water
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
@@ -46,24 +47,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 09 Jul 2026 23:23
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
-## String
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
-## Database
-|  |
-| ------- |
-| [0177-nth-highest-salary](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
-<!---LeetCode Topics End-->
+Last Updated : 10 Jul 2026 16:16
