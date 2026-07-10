@@ -9,11 +9,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Language | Problems |
 |----------|---------:|
 | Java | 7 |
-| JavaScript | 2 |
+| JavaScript | 7 |
 | Python | 1 |
 | SQL | 4 |
 
-**Total Solved : 14**
+**Total Solved : 19**
 
 ---
 
@@ -30,7 +30,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 ## 📜 JavaScript
 
 - 2620 - Counter
+- 2626 - Array Reduce Transformation
+- 2634 - Filter Elements From Array
+- 2635 - Apply Transform Over Each Element In Array
+- 2665 - Counter Ii
 - 2667 - Create Hello World Function
+- 2704 - To Be Or Not To Be
 
 ## 🐍 Python
 
@@ -47,4 +52,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 10 Jul 2026 16:16
+Last Updated : 10 Jul 2026 20:55
