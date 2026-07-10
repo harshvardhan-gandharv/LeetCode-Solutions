@@ -47,3 +47,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 09 Jul 2026 23:23
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+<!---LeetCode Topics End-->
