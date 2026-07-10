@@ -62,4 +62,8 @@ Last Updated : 09 Jul 2026 23:23
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
