@@ -54,3 +54,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 10 Jul 2026 20:57
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0178-rank-scores) |
+<!---LeetCode Topics End-->
