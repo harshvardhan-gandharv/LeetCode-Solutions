@@ -11,9 +11,9 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Java | 7 |
 | JavaScript | 7 |
 | Python | 1 |
-| SQL | 5 |
+| SQL | 6 |
 
-**Total Solved : 20**
+**Total Solved : 21**
 
 ---
 
@@ -44,6 +44,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 ## 🗄 SQL
 
 - 0177 - Nth Highest Salary
+- 0178 - Rank Scores
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -53,12 +54,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 10 Jul 2026 20:57
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0178-rank-scores](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0178-rank-scores) |
-<!---LeetCode Topics End-->
+Last Updated : 12 Jul 2026 18:49
