@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 7 |
+| Java | 8 |
 | JavaScript | 7 |
 | Python | 1 |
 | SQL | 6 |
 
-**Total Solved : 21**
+**Total Solved : 22**
 
 ---
 
@@ -26,6 +26,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0011 - Container With Most Water
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
+- 0016 - 3sum Closest
 
 ## 📜 JavaScript
 
@@ -54,20 +55,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 12 Jul 2026 18:49
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0016-3sum-closest](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0016-3sum-closest) |
-## Two Pointers
-|  |
-| ------- |
-| [0016-3sum-closest](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0016-3sum-closest) |
-## Sorting
-|  |
-| ------- |
-| [0016-3sum-closest](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0016-3sum-closest) |
-<!---LeetCode Topics End-->
+Last Updated : 14 Jul 2026 16:28
