@@ -55,3 +55,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 12 Jul 2026 18:49
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+<!---LeetCode Topics End-->
