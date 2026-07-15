@@ -11,9 +11,9 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Java | 8 |
 | JavaScript | 7 |
 | Python | 1 |
-| SQL | 6 |
+| SQL | 9 |
 
-**Total Solved : 22**
+**Total Solved : 25**
 
 ---
 
@@ -46,6 +46,9 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 - 0177 - Nth Highest Salary
 - 0178 - Rank Scores
+- 0180 - Consecutive Numbers
+- 0181 - Employees Earning More Than Their Managers
+- 0182 - Duplicate Emails
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -55,14 +58,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 14 Jul 2026 16:28
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0180-consecutive-numbers](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
-| [0181-employees-earning-more-than-their-managers](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
-| [0182-duplicate-emails](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
-<!---LeetCode Topics End-->
+Last Updated : 15 Jul 2026 16:05
