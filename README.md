@@ -56,3 +56,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 14 Jul 2026 16:28
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
+<!---LeetCode Topics End-->
