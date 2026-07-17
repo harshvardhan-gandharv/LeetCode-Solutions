@@ -59,3 +59,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 15 Jul 2026 16:05
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0018-4sum) |
+<!---LeetCode Topics End-->
