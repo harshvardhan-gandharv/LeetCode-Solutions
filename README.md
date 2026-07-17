@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 8 |
+| Java | 9 |
 | JavaScript | 7 |
 | Python | 1 |
 | SQL | 9 |
 
-**Total Solved : 25**
+**Total Solved : 26**
 
 ---
 
@@ -27,6 +27,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
 - 0016 - 3sum Closest
+- 0018 - 4sum
 
 ## 📜 JavaScript
 
@@ -58,20 +59,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 15 Jul 2026 16:05
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0018-4sum](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0018-4sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0018-4sum](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0018-4sum) |
-## Sorting
-|  |
-| ------- |
-| [0018-4sum](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0018-4sum) |
-<!---LeetCode Topics End-->
+Last Updated : 17 Jul 2026 13:20
