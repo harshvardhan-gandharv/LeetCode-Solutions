@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 9 |
+| Java | 10 |
 | JavaScript | 7 |
 | Python | 1 |
 | SQL | 9 |
 
-**Total Solved : 26**
+**Total Solved : 27**
 
 ---
 
@@ -21,6 +21,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 - 0001 - Two Sum
 - 0002 - Add Two Numbers
+- 0003 - Longest Substring Without Repeating Characters
 - 0004 - Median Of Two Sorted Arrays
 - 0005 - Longest Palindromic Substring
 - 0011 - Container With Most Water
@@ -59,20 +60,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 17 Jul 2026 13:20
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
+Last Updated : 18 Jul 2026 16:20
