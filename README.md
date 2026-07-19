@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 10 |
+| Java | 11 |
 | JavaScript | 7 |
 | Python | 1 |
-| SQL | 9 |
+| SQL | 10 |
 
-**Total Solved : 27**
+**Total Solved : 29**
 
 ---
 
@@ -29,6 +29,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0015 - 3sum
 - 0016 - 3sum Closest
 - 0018 - 4sum
+- 0033 - Search In Rotated Sorted Array
 
 ## 📜 JavaScript
 
@@ -51,6 +52,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0180 - Consecutive Numbers
 - 0181 - Employees Earning More Than Their Managers
 - 0182 - Duplicate Emails
+- 0183 - Customers Who Never Order
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -60,20 +62,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 18 Jul 2026 16:20
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-## Database
-|  |
-| ------- |
-| [0183-customers-who-never-order](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
-<!---LeetCode Topics End-->
+Last Updated : 19 Jul 2026 23:53
