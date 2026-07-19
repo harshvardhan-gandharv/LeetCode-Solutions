@@ -72,4 +72,8 @@ Last Updated : 18 Jul 2026 16:20
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
