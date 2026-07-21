@@ -63,3 +63,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 19 Jul 2026 23:53
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+<!---LeetCode Topics End-->
