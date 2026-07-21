@@ -9,11 +9,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Language | Problems |
 |----------|---------:|
 | Java | 11 |
-| JavaScript | 7 |
+| JavaScript | 8 |
 | Python | 1 |
-| SQL | 10 |
+| SQL | 12 |
 
-**Total Solved : 29**
+**Total Solved : 32**
 
 ---
 
@@ -35,6 +35,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 - 2620 - Counter
 - 2626 - Array Reduce Transformation
+- 2629 - Function Composition
 - 2634 - Filter Elements From Array
 - 2635 - Apply Transform Over Each Element In Array
 - 2665 - Counter Ii
@@ -53,6 +54,8 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0181 - Employees Earning More Than Their Managers
 - 0182 - Duplicate Emails
 - 0183 - Customers Who Never Order
+- 0184 - Department Highest Salary
+- 0185 - Department Top Three Salaries
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -62,13 +65,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 19 Jul 2026 23:53
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0184-department-highest-salary](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
-| [0185-department-top-three-salaries](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
-<!---LeetCode Topics End-->
+Last Updated : 21 Jul 2026 23:24
