@@ -70,4 +70,5 @@ Last Updated : 19 Jul 2026 23:53
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
