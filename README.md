@@ -66,3 +66,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 21 Jul 2026 23:24
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+<!---LeetCode Topics End-->
