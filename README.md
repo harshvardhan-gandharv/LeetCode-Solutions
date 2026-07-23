@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 11 |
+| Java | 12 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 12 |
 
-**Total Solved : 32**
+**Total Solved : 33**
 
 ---
 
@@ -24,6 +24,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0003 - Longest Substring Without Repeating Characters
 - 0004 - Median Of Two Sorted Arrays
 - 0005 - Longest Palindromic Substring
+- 0006 - Zigzag Conversion
 - 0011 - Container With Most Water
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
@@ -65,12 +66,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 21 Jul 2026 23:24
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0006-zigzag-conversion](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
-<!---LeetCode Topics End-->
+Last Updated : 23 Jul 2026 13:50
