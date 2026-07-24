@@ -67,3 +67,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 23 Jul 2026 13:50
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+<!---LeetCode Topics End-->
