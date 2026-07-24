@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 12 |
+| Java | 13 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 12 |
 
-**Total Solved : 33**
+**Total Solved : 34**
 
 ---
 
@@ -31,6 +31,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0016 - 3sum Closest
 - 0018 - 4sum
 - 0033 - Search In Rotated Sorted Array
+- 0047 - Permutations Ii
 
 ## 📜 JavaScript
 
@@ -66,20 +67,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 23 Jul 2026 13:50
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0047-permutations-ii](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0047-permutations-ii) |
-## Backtracking
-|  |
-| ------- |
-| [0047-permutations-ii](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0047-permutations-ii) |
-## Sorting
-|  |
-| ------- |
-| [0047-permutations-ii](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0047-permutations-ii) |
-<!---LeetCode Topics End-->
+Last Updated : 24 Jul 2026 22:11
