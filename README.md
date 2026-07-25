@@ -68,3 +68,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 24 Jul 2026 22:11
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+<!---LeetCode Topics End-->
