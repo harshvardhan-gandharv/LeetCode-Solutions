@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 13 |
+| Java | 14 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 12 |
 
-**Total Solved : 34**
+**Total Solved : 35**
 
 ---
 
@@ -25,6 +25,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0004 - Median Of Two Sorted Arrays
 - 0005 - Longest Palindromic Substring
 - 0006 - Zigzag Conversion
+- 0010 - Regular Expression Matching
 - 0011 - Container With Most Water
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
@@ -67,20 +68,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 24 Jul 2026 22:11
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
-## Recursion
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
-<!---LeetCode Topics End-->
+Last Updated : 25 Jul 2026 22:17
