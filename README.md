@@ -69,3 +69,15 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 25 Jul 2026 22:17
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
