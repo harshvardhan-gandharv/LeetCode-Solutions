@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 14 |
+| Java | 15 |
 | JavaScript | 8 |
 | Python | 1 |
-| SQL | 12 |
+| SQL | 13 |
 
-**Total Solved : 35**
+**Total Solved : 37**
 
 ---
 
@@ -31,6 +31,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0015 - 3sum
 - 0016 - 3sum Closest
 - 0018 - 4sum
+- 0026 - Remove Duplicates From Sorted Array
 - 0033 - Search In Rotated Sorted Array
 - 0047 - Permutations Ii
 
@@ -59,6 +60,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0183 - Customers Who Never Order
 - 0184 - Department Highest Salary
 - 0185 - Department Top Three Salaries
+- 0196 - Delete Duplicate Emails
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -68,20 +70,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 25 Jul 2026 22:17
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-## Database
-|  |
-| ------- |
-| [0196-delete-duplicate-emails](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
-<!---LeetCode Topics End-->
+Last Updated : 26 Jul 2026 20:16
