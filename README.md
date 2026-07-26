@@ -80,4 +80,8 @@ Last Updated : 25 Jul 2026 22:17
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
