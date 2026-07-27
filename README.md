@@ -71,3 +71,15 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 26 Jul 2026 20:16
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics End-->
