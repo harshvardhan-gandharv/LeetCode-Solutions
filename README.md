@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 15 |
+| Java | 16 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 13 |
 
-**Total Solved : 37**
+**Total Solved : 38**
 
 ---
 
@@ -31,6 +31,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0015 - 3sum
 - 0016 - 3sum Closest
 - 0018 - 4sum
+- 0021 - Merge Two Sorted Lists
 - 0026 - Remove Duplicates From Sorted Array
 - 0033 - Search In Rotated Sorted Array
 - 0047 - Permutations Ii
@@ -70,16 +71,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 26 Jul 2026 20:16
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
-<!---LeetCode Topics End-->
+Last Updated : 27 Jul 2026 23:12
