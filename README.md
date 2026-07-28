@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 16 |
+| Java | 17 |
 | JavaScript | 8 |
 | Python | 1 |
-| SQL | 13 |
+| SQL | 14 |
 
-**Total Solved : 38**
+**Total Solved : 40**
 
 ---
 
@@ -27,6 +27,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0006 - Zigzag Conversion
 - 0010 - Regular Expression Matching
 - 0011 - Container With Most Water
+- 0012 - Integer To Roman
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
 - 0016 - 3sum Closest
@@ -62,6 +63,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0184 - Department Highest Salary
 - 0185 - Department Top Three Salaries
 - 0196 - Delete Duplicate Emails
+- 0262 - Trips And Users
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -71,24 +73,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 27 Jul 2026 23:12
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
-## Math
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
-## String
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
-## Database
-|  |
-| ------- |
-| [0262-trips-and-users](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0262-trips-and-users) |
-<!---LeetCode Topics End-->
+Last Updated : 28 Jul 2026 14:58
