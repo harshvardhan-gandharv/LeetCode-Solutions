@@ -87,4 +87,8 @@ Last Updated : 27 Jul 2026 23:12
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
