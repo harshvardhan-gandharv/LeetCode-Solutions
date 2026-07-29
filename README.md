@@ -74,3 +74,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 28 Jul 2026 14:58
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
