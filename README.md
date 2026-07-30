@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 17 |
+| Java | 19 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 14 |
 
-**Total Solved : 40**
+**Total Solved : 42**
 
 ---
 
@@ -25,12 +25,14 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0004 - Median Of Two Sorted Arrays
 - 0005 - Longest Palindromic Substring
 - 0006 - Zigzag Conversion
+- 0007 - Reverse Integer
 - 0010 - Regular Expression Matching
 - 0011 - Container With Most Water
 - 0012 - Integer To Roman
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
 - 0016 - 3sum Closest
+- 0017 - Letter Combinations Of A Phone Number
 - 0018 - 4sum
 - 0021 - Merge Two Sorted Lists
 - 0026 - Remove Duplicates From Sorted Array
@@ -73,24 +75,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 28 Jul 2026 14:58
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0007-reverse-integer) |
-## Hash Table
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
-## String
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
-## Backtracking
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
-<!---LeetCode Topics End-->
+Last Updated : 30 Jul 2026 12:31
