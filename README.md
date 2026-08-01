@@ -83,4 +83,13 @@ Last Updated : 30 Jul 2026 12:31
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
