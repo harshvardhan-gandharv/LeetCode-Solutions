@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 19 |
+| Java | 21 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 14 |
 
-**Total Solved : 42**
+**Total Solved : 44**
 
 ---
 
@@ -26,9 +26,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0005 - Longest Palindromic Substring
 - 0006 - Zigzag Conversion
 - 0007 - Reverse Integer
+- 0008 - String To Integer Atoi
 - 0010 - Regular Expression Matching
 - 0011 - Container With Most Water
 - 0012 - Integer To Roman
+- 0013 - Roman To Integer
 - 0014 - Longest Common Prefix
 - 0015 - 3sum
 - 0016 - 3sum Closest
@@ -75,21 +77,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 30 Jul 2026 12:31
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0008-string-to-integer-atoi](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
-| [0013-roman-to-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
-<!---LeetCode Topics End-->
+Last Updated : 01 Aug 2026 19:11
