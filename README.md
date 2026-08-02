@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 21 |
+| Java | 22 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 14 |
 
-**Total Solved : 44**
+**Total Solved : 45**
 
 ---
 
@@ -36,6 +36,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0016 - 3sum Closest
 - 0017 - Letter Combinations Of A Phone Number
 - 0018 - 4sum
+- 0019 - Remove Nth Node From End Of List
 - 0021 - Merge Two Sorted Lists
 - 0026 - Remove Duplicates From Sorted Array
 - 0033 - Search In Rotated Sorted Array
@@ -77,16 +78,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 01 Aug 2026 19:11
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
-<!---LeetCode Topics End-->
+Last Updated : 02 Aug 2026 22:45
