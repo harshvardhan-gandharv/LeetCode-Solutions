@@ -78,3 +78,15 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 01 Aug 2026 19:11
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
