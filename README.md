@@ -79,3 +79,11 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 02 Aug 2026 22:45
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
+<!---LeetCode Topics End-->
