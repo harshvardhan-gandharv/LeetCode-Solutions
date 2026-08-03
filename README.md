@@ -11,9 +11,9 @@ This repository contains my **LeetCode** solutions organized automatically using
 | Java | 22 |
 | JavaScript | 8 |
 | Python | 1 |
-| SQL | 14 |
+| SQL | 15 |
 
-**Total Solved : 45**
+**Total Solved : 46**
 
 ---
 
@@ -69,6 +69,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0185 - Department Top Three Salaries
 - 0196 - Delete Duplicate Emails
 - 0262 - Trips And Users
+- 0511 - Game Play Analysis I
 - 0584 - Find Customer Referee
 - 0595 - Big Countries
 - 1148 - Article Views I
@@ -78,12 +79,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 02 Aug 2026 22:45
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0511-game-play-analysis-i](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
-<!---LeetCode Topics End-->
+Last Updated : 03 Aug 2026 18:07
