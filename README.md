@@ -80,3 +80,19 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 03 Aug 2026 18:07
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
