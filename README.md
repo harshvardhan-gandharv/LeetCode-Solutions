@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 22 |
+| Java | 23 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 15 |
 
-**Total Solved : 46**
+**Total Solved : 47**
 
 ---
 
@@ -37,6 +37,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0017 - Letter Combinations Of A Phone Number
 - 0018 - 4sum
 - 0019 - Remove Nth Node From End Of List
+- 0020 - Valid Parentheses
 - 0021 - Merge Two Sorted Lists
 - 0026 - Remove Duplicates From Sorted Array
 - 0033 - Search In Rotated Sorted Array
@@ -79,20 +80,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 03 Aug 2026 18:07
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
-<!---LeetCode Topics End-->
+Last Updated : 05 Aug 2026 23:41
