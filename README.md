@@ -82,3 +82,23 @@ This repository contains my **LeetCode** solutions organized automatically using
 Generated automatically by **LeetOrganizer** ❤️
 
 Last Updated : 09 Aug 2026 13:29
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+<!---LeetCode Topics End-->
