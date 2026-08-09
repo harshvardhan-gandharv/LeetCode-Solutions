@@ -8,12 +8,12 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 | Language | Problems |
 |----------|---------:|
-| Java | 23 |
+| Java | 24 |
 | JavaScript | 8 |
 | Python | 1 |
 | SQL | 16 |
 
-**Total Solved : 48**
+**Total Solved : 49**
 
 ---
 
@@ -41,6 +41,7 @@ This repository contains my **LeetCode** solutions organized automatically using
 - 0021 - Merge Two Sorted Lists
 - 0026 - Remove Duplicates From Sorted Array
 - 0033 - Search In Rotated Sorted Array
+- 0044 - Wildcard Matching
 - 0047 - Permutations Ii
 
 ## 📜 JavaScript
@@ -81,24 +82,4 @@ This repository contains my **LeetCode** solutions organized automatically using
 
 Generated automatically by **LeetOrganizer** ❤️
 
-Last Updated : 09 Aug 2026 13:29
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
-## Greedy
-|  |
-| ------- |
-| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
-## Recursion
-|  |
-| ------- |
-| [0044-wildcard-matching](https://github.com/harshvardhan2706/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
-<!---LeetCode Topics End-->
+Last Updated : 09 Aug 2026 13:42
